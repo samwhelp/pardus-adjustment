@@ -19,6 +19,7 @@
 
 * [Script](#script)
 * [Pardus Respin](#pardus-respin)
+* [Debian Packaging](#debian-packaging)
 * [Link](#link)
 
 
@@ -44,6 +45,17 @@
 
 
 
+## Debian Packaging
+
+| Debian Packaging |
+| ---------------- |
+| [pacstall-packaging](https://github.com/samwhelp/pacstall-packaging) |
+| [deb-coffee](https://github.com/samwhelp/deb-coffee) |
+| [deb-recipe](https://github.com/samwhelp/deb-recipe) |
+
+
+
+
 ## Link
 
 | Link | GitHub |
@@ -61,4 +73,3 @@
 ## Samwhelp
 
 * [GitHub](https://github.com/samwhelp)
-
