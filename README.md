@@ -14,6 +14,7 @@
 
 * [Script](#script)
 * [Pardus Respin](#pardus-respin)
+* [Debian Packaging](#debian-packaging)
 * [Link](#link)
 
 
@@ -35,6 +36,17 @@
 | ---- | ------ |
 | [Pardus Xfce Adjustment](https://samwhelp.github.io/pardus-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/pardus-xfce-adjustment) |
 | [Pardus Gnome Shell Adjustment](https://samwhelp.github.io/pardus-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/pardus-gnome-shell-adjustment) |
+
+
+
+
+## Debian Packaging
+
+| Debian Packaging |
+| ---------------- |
+| [pacstall-packaging](https://github.com/samwhelp/pacstall-packaging) |
+| [deb-coffee](https://github.com/samwhelp/deb-coffee) |
+| [deb-recipe](https://github.com/samwhelp/deb-recipe) |
 
 
 
