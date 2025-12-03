@@ -1,0 +1,7 @@
+https://indir.pardus.org.tr/ISO/Pardus25/Pardus-25.0-XFCE-amd64.iso
+https://indir.pardus.org.tr/ISO/Pardus25/Pardus-25.0-GNOME-amd64.iso
+
+
+
+
+https://indir.pardus.org.tr/ISO/Pardus25/MD5SUMS
